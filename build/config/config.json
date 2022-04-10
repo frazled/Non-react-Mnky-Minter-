@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBB6f0738DD85bbB2d19a8f350Fa6822C07D62B5c",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xbb6f0738dd85bbb2d19a8f350fa6822c07d62b5c",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Mnky New World Order",
+  "SYMBOL": "MNKy",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mnkynwo",
+  "SHOW_BACKGROUND": true
+}
